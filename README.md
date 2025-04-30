@@ -1,2 +1,4 @@
-# codespaces
-Practice github codespaces
+# iPadでcodespaces
+
+- iPadでプログラミングをするための実験的なリポジトリです。
+- 外付けキーボードがあれば、PCを持ち歩かなくていいので非常に快適です。
